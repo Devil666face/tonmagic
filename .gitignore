@@ -1,3 +1,5 @@
 .env
 /bin
 /cmd/tonmagic/server.*
+/server.crt
+/server.key
